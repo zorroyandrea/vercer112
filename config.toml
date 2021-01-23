@@ -1,0 +1,4 @@
+baseURL = "https://quotesbrotherjooq.vercel.app"
+languageCode = "en-us"
+title = "Best Quotes 1"
+theme = "tale-hugo-master"
